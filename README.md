@@ -13,7 +13,7 @@ If you want to learn how to create it please follow below tutorial👇: <br />
 https://youtu.be/Yw7yWHigGKI <br />
 [![YouTube Video Views](https://img.shields.io/youtube/views/Yw7yWHigGKI?style=social)](https://youtu.be/Yw7yWHigGKI)<br />
 
-<h3 align="left">▶ Support me via:</h3><br />
+<h3 align="left">▶ Support me via:</h3><br /> 
 <p><a href="https://www.buymeacoffee.com/CodeBucks" target="_blank"> <img  src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="50" width="210" alt="CodeBucks" ></img></a></p><br />
 
 ### Images of The Portfolio Website:
